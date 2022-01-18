@@ -1,0 +1,10 @@
+/dist
+/node_modules
+src/uploadImages/*
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
